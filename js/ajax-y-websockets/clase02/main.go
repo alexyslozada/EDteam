@@ -35,7 +35,7 @@ func getJSON(c echo.Context) error {
 	ns = append(ns, Noticia{Titulo: "Nuevo curso JS", Contenido: "Aprende el lenguaje de programación de la WEB", Fecha: time.Now()})
 	ns = append(ns, Noticia{Titulo: "Nuevo Sorteo de cursos", Contenido: "Noticias fake por todo internet", Fecha: time.Now()})
 	ns = append(ns, Noticia{Titulo: "La comunidad está onfaiel", Contenido: "Todos comentando sobre las nuevas funcionalidades", Fecha: time.Now()})
-	return c.JSON(http.StatusNotFound, ns)
+	return c.JSON(http.StatusOK, ns)
 }
 
 type Noticia struct {
