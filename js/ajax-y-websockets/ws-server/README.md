@@ -1,4 +1,4 @@
-# AJAX
+# WEBSOCKET
 
 Para correr el servidor debes ejecutar el archivo correspondiente a tu sustema operativo.
 
