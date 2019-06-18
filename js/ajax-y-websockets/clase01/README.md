@@ -9,7 +9,7 @@ No es necesario que tengas GO instalado en tu máquina, ya que el ejecutable `se
 $ ./server-linux
 ```
 
-- En windows:
+- En windows, primero debes agregarle la extensión `.exe` al archivo y luego ejecutarlo:
 ```
 c:\> server-windows.exe
 ```
