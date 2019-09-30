@@ -1,0 +1,82 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lineal",
+            "request": "launch",
+            "mainClass": "Lineal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Burbuja",
+            "request": "launch",
+            "mainClass": "Burbuja"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Arreglo",
+            "request": "launch",
+            "mainClass": "Arreglo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CicloForEachMap",
+            "request": "launch",
+            "mainClass": "CicloForEachMap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CicloForEach",
+            "request": "launch",
+            "mainClass": "CicloForEach"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CicloFor",
+            "request": "launch",
+            "mainClass": "CicloFor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - While",
+            "request": "launch",
+            "mainClass": "While"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CicloDoWhile",
+            "request": "launch",
+            "mainClass": "CicloDoWhile"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CondicionalesDos",
+            "request": "launch",
+            "mainClass": "CondicionalesDos"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Condicionales",
+            "request": "launch",
+            "mainClass": "Condicionales"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Operadores",
+            "request": "launch",
+            "mainClass": "Operadores"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tipos",
+            "request": "launch",
+            "mainClass": "Tipos"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nuevo",
+            "request": "launch",
+            "mainClass": "Nuevo"
+        }
+    ]
+}
