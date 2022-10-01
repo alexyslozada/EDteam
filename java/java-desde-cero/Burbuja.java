@@ -16,7 +16,7 @@ class Burbuja {
         System.out.println();
 
         // Ordenar por el método burbuja
-        // 1. Recorrer el arreglo tantas 
+        // 1. Recorrer el arreglo tantas s
         // veces como elementos contenga menos 1.
         // Si el arreglo tiene 10 elementos, voy a recorrerlo
         // 9 veces.
