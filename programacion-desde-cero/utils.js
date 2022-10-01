@@ -6,7 +6,7 @@ const print = list => {
     // Se limpia el elmento para volver a dibujarlo todo
     listHtml.innerHTML = ``
 
-    // Si no hay tareas, no realiza ninguna acción
+    // Si no hay tareas, no realiza ninguna acciónn
     if (list.length === 0) { return }
 
     // Fragmento que almacenará temporalemente la lista

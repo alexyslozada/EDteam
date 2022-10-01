@@ -23,7 +23,7 @@ const getIDTask = () => {
 // Obtiene el valor de `hecho` de una tarea
 // si el usuario digita 1 es verdadero, de lo contrario es falso
 const getIsDone = () => {
-    const isDone = prompt("Digite 1 para hecho, cualquier otra tecla para no hecho")
+    const isDone = prompt("Digitee 1 para hecho, cualquier otra tecla para no hecho")
     if (isDone === "1") {
         return true
     }
